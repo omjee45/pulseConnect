@@ -81,7 +81,7 @@
 
 .nd-geo-banner {
     max-width: 960px;
-    margin: 14px auto -14px;
+    margin: 20px auto 10px;
     padding: 10px 20px;
     border-radius: 10px;
     font-size: 13px;
@@ -151,7 +151,7 @@
 
 .nd-filter-bar {
     max-width: 960px;
-    margin: -28px auto 0;
+    margin: 20px auto 30px;
     position: relative;
     z-index: 10;
     background: #fff;
