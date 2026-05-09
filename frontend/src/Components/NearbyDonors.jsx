@@ -151,7 +151,7 @@ export default function NearbyDonors() {
       {}
       {geoStatus === "detecting" && (
         <div className="nd-geo-banner detecting">
-          📡 Detecting your location…
+          Detecting your location…
         </div>
       )}
       {geoStatus === "granted" && (

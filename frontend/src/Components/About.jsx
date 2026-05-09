@@ -24,7 +24,7 @@ const TEAM = [
   {
     initial: "O",
     name:    "Omjee",
-    role:    "Chat & Nearby Donors",
+    role:    "Chat Server & Nearby Donors Feature",
     bio:     "Worked on real-time chat integration and the nearby donor geolocation feature.",
   },
   {
