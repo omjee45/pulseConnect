@@ -22,22 +22,28 @@ const VALUES = [
 
 const TEAM = [
   {
-    initial: "A",
-    name:    "Aryan Sharma",
-    role:    "Founder & Developer",
-    bio:     "Built PulseConnect to solve the gap between donors and recipients across India.",
+    initial: "O",
+    name:    "Omjee",
+    role:    "Chat Server & Nearby Donors Feature",
+    bio:     "Worked on real-time chat integration and the nearby donor geolocation feature.",
+  },
+  {
+    initial: "N",
+    name:    "Nitish",
+    role:    "Documentation & Testing",
+    bio:     "Handled comprehensive documentation and rigorous testing to ensure platform reliability.",
+  },
+  {
+    initial: "N",
+    name:    "Naitik",
+    role:    "Frontend Developer",
+    bio:     "Designed and developed the user interface, making the platform accessible and intuitive.",
   },
   {
     initial: "P",
-    name:    "Priya Verma",
-    role:    "Medical Advisor",
-    bio:     "Ensures all medical guidelines and safety protocols are followed on the platform.",
-  },
-  {
-    initial: "R",
-    name:    "Rahul Nair",
-    role:    "UI/UX Designer",
-    bio:     "Designed the clean, accessible interface that makes PulseConnect easy to use for all.",
+    name:    "Piyush",
+    role:    "Backend & Authentication",
+    bio:     "Managed server architecture, secure API endpoints, and robust user authentication.",
   },
 ];
 

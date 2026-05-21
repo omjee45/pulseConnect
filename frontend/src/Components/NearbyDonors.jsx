@@ -151,17 +151,17 @@ export default function NearbyDonors() {
       {}
       {geoStatus === "detecting" && (
         <div className="nd-geo-banner detecting">
-          📡 Detecting your location…
+          Detecting your location…
         </div>
       )}
       {geoStatus === "granted" && (
         <div className="nd-geo-banner granted">
-          ✅ Using your live location — showing donors nearest to you
+          Using your live location — showing donors nearest to you
         </div>
       )}
       {geoStatus === "denied" && (
         <div className="nd-geo-banner denied">
-          ⚠️ Location access denied — using city/state filter instead.
+          Location access denied — using city/state filter instead.
           <button onClick={() => window.location.reload()}>Retry</button>
         </div>
       )}
